@@ -17,10 +17,10 @@
 
 <p align=center>
   <a href="https://github.com/AntonyRafael/github-readme-stats" title="Go to Source">
-    <img height=172 align="center" src="https://github-readme-stats.vercel.app/api?username=AntonyRafael&show_icons=true&theme=default">
+    <img height=165 align="center" src="https://github-readme-stats.vercel.app/api?username=AntonyRafael&show_icons=true&theme=default">
   </a>
   <a href="https://github.com/AntonyRafael/github-readme-stats">
-  <img height=175 align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AntonyRafael&layout=compact" />
+  <img height=165 align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AntonyRafael&layout=compact" />
   </a>
 </p>
 
