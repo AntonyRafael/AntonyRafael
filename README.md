@@ -9,12 +9,8 @@
 
 📈 My GitHub Stats
 <hr>
-
-
  ![Antony Rafael GitHub stats](https://github-readme-stats.vercel.app/api?username=AntonyRafael&show_icons=true)
- [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=AntonyRafael)](https://github.com/AntonyRafael/github-readme-stats)
-
-
+ [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=AntonyRafael$layout=compact&heigth=495)](https://github.com/AntonyRafael/github-readme-stats)
 <hr>
 
 
