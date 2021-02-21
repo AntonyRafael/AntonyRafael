@@ -10,10 +10,10 @@
 📈 My GitHub Stats
 <hr>
 
-<p align=center>
+
  ![Antony Rafael GitHub stats](https://github-readme-stats.vercel.app/api?username=AntonyRafael&show_icons=true)
  [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=AntonyRafael&layout=compact)](https://github.com/AntonyRafael/github-readme-stats)
-</p>
+
 
 <hr>
 
