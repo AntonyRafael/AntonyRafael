@@ -22,10 +22,10 @@
 -->
 
 <p align=center>
-  <a href="https://github.com/AntonyRafael/github-readme-stats" title="Go to Source">
+  <a href="https://github.com/anuraghazra/github-readme-stats" title="Go to Source">
     <img height=165 align="center" src="https://github-readme-stats.vercel.app/api?username=AntonyRafael&show_icons=true&theme=default">
   </a>
-  <a href="https://github.com/AntonyRafael/github-readme-stats">
+  <a href="https://github.com/anuraghazra/github-readme-stats">
   <img height=165 align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AntonyRafael&layout=compact" />
   </a>
 </p>
