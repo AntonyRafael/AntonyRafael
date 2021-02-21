@@ -1,9 +1,5 @@
 ### Hi there, I'm Antony Rafael 👋
 <hr>
-
-
-<h5>My social networks </h2>
-<hr>
 <h5 align="center">
   <code>
     <a href="https://www.linkedin.com/in/antony-rafael-9924511a9/" title="LinkedIn Profile"><img width="33" src="https://github.com/zumrudu-anka/zumrudu-anka/blob/master/images/linkedin.svg"> LinkedIn</a></code>
