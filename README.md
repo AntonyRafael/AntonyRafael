@@ -7,7 +7,7 @@
 </h5>
 <hr>
 
-- 🔭 I’m currently working on [Droagaria Araujo](https://www.araujo.com.br/)
+- 🔭 I’m currently working on [Drogaria Araujo](https://www.araujo.com.br/)
 - 🌱 I’m currently learning React and other front-end techniques
 - 👯 I’m looking to collaborate on open source projects
 
