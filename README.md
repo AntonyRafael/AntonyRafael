@@ -14,12 +14,6 @@
 <hr>
 
 📈 My GitHub Stats
-<!--
-<hr>
- ![Antony Rafael GitHub stats](https://github-readme-stats.vercel.app/api?username=AntonyRafael&show_icons=true)
- [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=AntonyRafael$layout=compact)](https://github.com/AntonyRafael/github-readme-stats)
-<hr>
--->
 
 <p align=center>
   <a href="https://github.com/anuraghazra/github-readme-stats" title="Go to Source" target="_blank">
@@ -30,15 +24,4 @@
   </a>
 </p>
 
-
-
-
-
-<!--
-https://github.com/AntonyRafael/AntonyRafael/issues
-- 💬 Ask me about ... 
-- 🤔 I’m looking for help with ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+ ![Snake animation](https://github.com/AntonyRafael/AntonyRafael/blob/output/github-contribution-grid-snake.svg)
