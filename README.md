@@ -23,5 +23,3 @@
   <img height=165 align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AntonyRafael&layout=compact&theme=react" />
   </a>
 </p>
-
- ![Snake animation](https://github.com/AntonyRafael/AntonyRafael/blob/output/github-contribution-grid-snake.svg)
