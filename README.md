@@ -7,7 +7,7 @@
 </h5>
 <hr>
 
-- 🔭 I’m currently working on [SPDATA](https://spdata.com.br/)
+- 🔭 I currently work at [OsSystem](https://www.ossystems.com.br/) on the [ShellHub](https://www.shellhub.io/) team.
 - 🌱 I’m currently learning React and other front-end techniques
 - 👯 I’m looking to collaborate on open source projects
 
